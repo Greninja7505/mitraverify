@@ -1,0 +1,11 @@
+# Netlify redirects file
+# This is a backup to netlify.toml for handling redirects
+
+# Handle Next.js static assets
+/_next/static/*  /_next/static/:splat  200
+
+# Handle trailing slashes for directories
+/*/  /:splat/index.html  200
+
+# SPA fallback - must be last
+/*  /index.html  200
