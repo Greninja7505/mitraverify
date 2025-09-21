@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sample_001",
+    "text": "COVID-19 vaccines contain microchips that track people",
+    "language": "en",
+    "verdict": "misinformation",
+    "confidence": 0.95,
+    "source": "WhatsApp forward"
+  },
+  {
+    "id": "sample_002",
+    "text": "5G towers are spreading coronavirus",
+    "language": "en",
+    "verdict": "misinformation",
+    "confidence": 0.92,
+    "source": "Social media post"
+  },
+  {
+    "id": "sample_003",
+    "text": "Drinking cow urine cures all diseases",
+    "language": "en",
+    "verdict": "misinformation",
+    "confidence": 0.88,
+    "source": "Facebook post"
+  },
+  {
+    "id": "sample_004",
+    "text": "The earth is flat and NASA is hiding the truth",
+    "language": "en",
+    "verdict": "misinformation",
+    "confidence": 0.96,
+    "source": "Twitter thread"
+  },
+  {
+    "id": "sample_005",
+    "text": "Vaccines cause autism in children",
+    "language": "en",
+    "verdict": "misinformation",
+    "confidence": 0.89,
+    "source": "WhatsApp message"
+  },
+  {
+    "id": "sample_006",
+    "text": "WHO officially declared COVID-19 as pandemic on March 11, 2020",
+    "language": "en",
+    "verdict": "reliable",
+    "confidence": 0.87,
+    "source": "Official WHO statement"
+  },
+  {
+    "id": "sample_007",
+    "text": "India successfully launched Chandrayaan-2 lunar mission",
+    "language": "en",
+    "verdict": "reliable",
+    "confidence": 0.91,
+    "source": "ISRO announcement"
+  },
+  {
+    "id": "sample_008",
+    "text": "The monsoon season in India typically lasts from June to September",
+    "language": "en",
+    "verdict": "reliable",
+    "confidence": 0.94,
+    "source": "IMD weather report"
+  },
+  {
+    "id": "sample_009",
+    "text": "कोविड-19 वैक्सीन में ट्रैकिंग चिप होती है",
+    "language": "hi",
+    "verdict": "misinformation",
+    "confidence": 0.93,
+    "source": "WhatsApp forward"
+  },
+  {
+    "id": "sample_010",
+    "text": "5G टावर कोरोना वायरस फैला रहे हैं",
+    "language": "hi",
+    "verdict": "misinformation",
+    "confidence": 0.9,
+    "source": "Social media post"
+  }
+]

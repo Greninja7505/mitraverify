@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fact_001",
+    "claim": "COVID-19 vaccines contain microchips",
+    "verdict": "false",
+    "explanation": "This is a conspiracy theory. COVID-19 vaccines do not contain microchips or tracking devices.",
+    "source": "WHO Fact Check",
+    "url": "https://www.who.int/news-room/feature-stories/detail/vaccines-and-microchips",
+    "language": "en",
+    "date_checked": "2023-12-01"
+  },
+  {
+    "id": "fact_002",
+    "claim": "5G towers cause COVID-19",
+    "verdict": "false",
+    "explanation": "There is no scientific evidence linking 5G technology to COVID-19 or any health issues.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/5g-mobile-networks-COVID-19.html",
+    "language": "en",
+    "date_checked": "2023-12-01"
+  },
+  {
+    "id": "fact_003",
+    "claim": "कोविड-19 वैक्सीन में माइक्रोचिप हैं",
+    "verdict": "false",
+    "explanation": "यह एक साजिश सिद्धांत है। कोविड-19 वैक्सीन में माइक्रोचिप या ट्रैकिंग डिवाइस नहीं होते।",
+    "source": "WHO Fact Check",
+    "url": "https://www.who.int/news-room/feature-stories/detail/vaccines-and-microchips",
+    "language": "hi",
+    "date_checked": "2023-12-01"
+  }
+]

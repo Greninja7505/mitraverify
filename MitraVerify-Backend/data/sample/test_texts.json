@@ -1,0 +1,162 @@
+[
+    {
+        "id": "sample_001",
+        "text": "COVID-19 vaccines contain microchips that track people",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.95,
+        "source": "WhatsApp forward"
+    },
+    {
+        "id": "sample_002",
+        "text": "5G towers are spreading coronavirus",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.92,
+        "source": "Social media post"
+    },
+    {
+        "id": "sample_003",
+        "text": "Drinking cow urine cures all diseases",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.88,
+        "source": "Facebook post"
+    },
+    {
+        "id": "sample_004",
+        "text": "The earth is flat and NASA is hiding the truth",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.96,
+        "source": "Twitter thread"
+    },
+    {
+        "id": "sample_005",
+        "text": "Vaccines cause autism in children",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.89,
+        "source": "WhatsApp message"
+    },
+    {
+        "id": "sample_006",
+        "text": "WHO officially declared COVID-19 as pandemic on March 11, 2020",
+        "language": "en",
+        "verdict": "reliable",
+        "confidence": 0.87,
+        "source": "Official WHO statement"
+    },
+    {
+        "id": "sample_007",
+        "text": "India successfully launched Chandrayaan-2 lunar mission",
+        "language": "en",
+        "verdict": "reliable",
+        "confidence": 0.91,
+        "source": "ISRO announcement"
+    },
+    {
+        "id": "sample_008",
+        "text": "The monsoon season in India typically lasts from June to September",
+        "language": "en",
+        "verdict": "reliable",
+        "confidence": 0.94,
+        "source": "IMD weather report"
+    },
+    {
+        "id": "sample_009",
+        "text": "कोविड-19 वैक्सीन में ट्रैकिंग चिप होती है",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.93,
+        "source": "WhatsApp forward"
+    },
+    {
+        "id": "sample_010",
+        "text": "5G टावर कोरोना वायरस फैला रहे हैं",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.90,
+        "source": "Social media post"
+    },
+    {
+        "id": "sample_011",
+        "text": "गाय का गोमूत्र सभी बीमारियों का इलाज है",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.85,
+        "source": "Facebook post"
+    },
+    {
+        "id": "sample_012",
+        "text": "पृथ्वी चपटी है और NASA सच छुपा रही है",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.94,
+        "source": "Twitter thread"
+    },
+    {
+        "id": "sample_013",
+        "text": "टीके बच्चों में ऑटिज्म का कारण बनते हैं",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.87,
+        "source": "WhatsApp message"
+    },
+    {
+        "id": "sample_014",
+        "text": "WHO ने 11 मार्च 2020 को COVID-19 को महामारी घोषित किया",
+        "language": "hi",
+        "verdict": "reliable",
+        "confidence": 0.89,
+        "source": "Official WHO statement"
+    },
+    {
+        "id": "sample_015",
+        "text": "भारत ने चंद्रयान-2 चंद्र मिशन सफलतापूर्वक लॉन्च किया",
+        "language": "hi",
+        "verdict": "reliable",
+        "confidence": 0.92,
+        "source": "ISRO announcement"
+    },
+    {
+        "id": "sample_016",
+        "text": "भारत में मानसून का मौसम आमतौर पर जून से सितंबर तक रहता है",
+        "language": "hi",
+        "verdict": "reliable",
+        "confidence": 0.95,
+        "source": "IMD weather report"
+    },
+    {
+        "id": "sample_017",
+        "text": "The Prime Minister announced new education reforms yesterday",
+        "language": "en",
+        "verdict": "reliable",
+        "confidence": 0.82,
+        "source": "Government press release"
+    },
+    {
+        "id": "sample_018",
+        "text": "प्रधान मंत्री ने कल नई शिक्षा सुधारों की घोषणा की",
+        "language": "hi",
+        "verdict": "reliable",
+        "confidence": 0.84,
+        "source": "Government press release"
+    },
+    {
+        "id": "sample_019",
+        "text": "Eating garlic prevents heart disease",
+        "language": "en",
+        "verdict": "misinformation",
+        "confidence": 0.76,
+        "source": "Unverified health claim"
+    },
+    {
+        "id": "sample_020",
+        "text": "लेहसुन खाना हृदय रोग को रोकता है",
+        "language": "hi",
+        "verdict": "misinformation",
+        "confidence": 0.78,
+        "source": "Unverified health claim"
+    }
+]
